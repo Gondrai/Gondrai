@@ -5,14 +5,8 @@
 
 ### About me
 I'm student of information systems at the Federal University of Sergipe.
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gondrai&count_private=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gondrai&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gondrai&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gondrai&show_icons=true&theme=onedark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gondrai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
