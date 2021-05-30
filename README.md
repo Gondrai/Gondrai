@@ -5,9 +5,6 @@
 
 ### About me
 #### I'm student of information systems at the Federal University of Sergipe.
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gondrai&count_private=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gondrai&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gondrai&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gondrai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
