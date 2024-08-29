@@ -7,7 +7,7 @@
 ### I'm student of information systems at the Federal University of Sergipe.
 > Right now, I'm diving deep into information security, but my real passion lies with data. 
 To level up my skills, I'm tackling the NTT Data bootcamp and the Alura Data Science course. Plus, I'm getting hands-on with ***Python, SQL, and Pandas***, and discovering how to wield these tools to unlock the secrets of the data world. It's an exciting journey, and I'm loving every minute of it! 🖥📊
-
+## GitHub Stats
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Gondrai&show_icons=true&theme=tokyonight"
   />
